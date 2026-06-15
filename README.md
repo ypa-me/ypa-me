@@ -4,5 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ypa-me&background=040404&ring=bbbbbb&fire=bbbbbb&stroke=bbbbbb&currStreakNum=ffffff&currStreakLabel=ffffff&totalStats=bbbbbb&dates=bbbbbb&sideNums=bbbbbb" height="150" />
+  <img src="https://img.shields.io/badge/Current_Streak-7_Days-ffffff?style=for-the-badge&logo=github&logoColor=bbbbbb&labelColor=040404&color=040404" />
+  <img src="https://img.shields.io/badge/Longest_Streak-12_Days-bbbbbb?style=for-the-badge&logo=github&logoColor=bbbbbb&labelColor=040404&color=040404" />
+  <img src="https://img.shields.io/badge/Total_Contributions-150-bbbbbb?style=for-the-badge&logo=github&logoColor=bbbbbb&labelColor=040404&color=040404" />
 </p>
