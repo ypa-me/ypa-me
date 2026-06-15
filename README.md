@@ -1,9 +1,9 @@
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ypa-me&show_icons=true&theme=dark" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypa-me&layout=compact&theme=dark" alt="Top Languages" height="180" />
-</p>
+| GitHub Stats | Top Languages |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=ypa-me&show_icons=true&theme=github_dark" height="150" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypa-me&layout=compact&theme=github_dark" height="150" /> |
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ypa-me&theme=dark-smoky" alt="GitHub Streak" height="180" />
-</p>
+<img src="https://streak-stats.demolab.com/?user=ypa-me&theme=github-dark" height="150" />
+
+</div>
