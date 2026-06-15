@@ -4,5 +4,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ypa-me&background=040404&ring=bbbbbb&fire=bbbbbb&stroke=333333&currStreakNum=ffffff&currStreakLabel=ffffff&totalStats=bbbbbb&dates=bbbbbb&sideNums=bbbbbb" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=ypa-me&background=040404&ring=bbbbbb&fire=bbbbbb&stroke=333333&currStreakNum=ffffff&currStreakLabel=ffffff&dates=bbbbbb&sideNums=bbbbbb" height="150" />
 </p>
