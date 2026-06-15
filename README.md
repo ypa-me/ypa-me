@@ -1,9 +1,8 @@
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ypa-me&show_icons=true&bg_color=040404&text_color=bbbbbb&icon_color=cccccc&title_color=ffffff&border_color=333333" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypa-me&layout=compact&bg_color=040404&text_color=bbbbbb&title_color=ffffff&border_color=333333&langs_count=8" height="150" />
+</p>
 
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=ypa-me&show_icons=true&bg_color=040404&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff&font=jetbrains_mono" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypa-me&layout=compact&bg_color=040404&text_color=ffffff&title_color=ffffff&border_color=ffffff&font=jetbrains_mono" height="150" /> 
-
-<img src="https://streak-stats.demolab.com/?user=ypa-me&background=040404&dates=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&border=ffffff&font=jetbrains_mono" height="150" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ypa-me&background=040404&dates=bbbbbb&ring=cccccc&fire=cccccc&currStreakNum=ffffff&sideNums=bbbbbb&currStreakLabel=bbbbbb&totalStats=bbbbbb&stroke=333333" height="150" />
+</p>
