@@ -6,4 +6,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ypa-me&background=040404&ring=bbbbbb&fire=bbbbbb&stroke=bbbbbb&currStreakNum=ffffff&currStreakLabel=ffffff&totalStats=bbbbbb&dates=bbbbbb&sideNums=bbbbbb&sideLabels=bbbbbb&currStreakLabel=ffffff&hide_border=false" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ypa-me&layout=compact&bg_color=040404&text_color=bbbbbb" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ypa-me&theme=tokyonight&bg_color=040404&color=bbbbbb&line=ffffff&point=ffffff" />
+</p>
