@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- Activity Graph: Constrained width -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ypa-me&theme=tokyonight&bg_color=040404&color=bbbbbb&line=ffffff&point=ffffff" width="890" height="500" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ypa-me&theme=tokyonight&bg_color=040404&color=bbbbbb&line=ffffff&point=ffffff" width="890"  />
 </p>
 
 
