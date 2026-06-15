@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ypa-me&theme=darksmoky" alt="GitHub Streak" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=ypa-me&theme=dark-smoky" alt="GitHub Streak" height="180" />
 </p>
